@@ -1,6 +1,6 @@
 {
     "project": "streamlit-personalBudget", 
     "description": "Streamlit app for monthly personal budget tracking.",
-    "authors": "Alejandro Aguayo-Ortiz <aaguayoo92@gmail.com>"
+    "authors": "Alejandro Aguayo-Ortiz <aaguayoo92@gmail.com>",
     "repository": "aaguayoo"
 }
