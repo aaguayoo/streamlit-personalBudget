@@ -1,0 +1,1 @@
+"""Streamlit-personalbudget profilings."""
