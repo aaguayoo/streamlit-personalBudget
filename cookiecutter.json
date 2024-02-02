@@ -1,6 +1,6 @@
 {
-    "project": "<project_name>", 
-    "description": "Project description.",
-    "author(s)": "Author 1 <author_1@gmail.com>; Author 2 <author_2@gmail.com>",
-    "repository": "Name of the Github profile."
+    "project": "streamlit-personalBudget", 
+    "description": "Streamlit app for monthly personal budget tracking.",
+    "authors": "Alejandro Aguayo-Ortiz <aaguayoo92@gmail.com>"
+    "repository": "aaguayoo"
 }
